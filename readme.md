@@ -1,6 +1,11 @@
 This is the Elara repository
 ==========
 
+WARNING
+===================
+All of this code is very outdated and won't be updated.
+
+
 Note
 ==============
 
